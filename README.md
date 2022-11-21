@@ -7,7 +7,9 @@ RR_Abstract.docx - A copy of the abstract submitted through TMU's Turnitin porta
 
 RR_LitReview.docx - A copy of the lit review containing the updated abstract submitted through TMU's Turnitin portal on October 24 2022.
 
-820_LitReview.py - A copy of the code used for datapreprocessing and descriptive statistics presented in RR_LitReview.docx.
+820_LitReview.py - A copy of the code used for data preprocessing and descriptive statistics presented in RR_LitReview.docx. Created in Google Colab.
 
-df.csv - A copy of the dataset being used for this project. This is the "census-income" dataset retrieved from UCI's Machine Learning Respository (https://archive.ics.uci.edu/ml/datasets/census+income)
+820_Final.py - A copy of the code used to run and assess the classification models (including data preprocessing contained in 820_LitReview.py). Created in Google Colab.
+
+df.csv - A copy of the dataset being used for this project. This is the "census-income" dataset retrieved from UCI's Machine Learning Respository (https://archive.ics.uci.edu/ml/datasets/census+income).
 
