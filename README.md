@@ -11,7 +11,7 @@ RR_Lit_Review.docx - A copy of the lit review containing the updated abstract su
 
 820_final.py - A copy of the code used to run and assess the classification models (including data preprocessing contained in '820_LitReview.py'). Created in Google Colab.
 
-820_final.html - An HTML version of '820_Final.py'.
+820_final.html - An HTML version of '820_Final.ipynb'.
 
 df.csv - A copy of the dataset being used for this project. This is the "census-income" dataset retrieved from UCI's Machine Learning Respository (https://archive.ics.uci.edu/ml/datasets/census+income).
 
